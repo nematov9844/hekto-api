@@ -56,147 +56,147 @@
       },
       {
         "img": "https://raw.githubusercontent.com/nematov9844/hekto-images/main/leastest/leatest_2.png",
-        "name": "Vintage Craft Tool",
-        "price": "$42.00",
-        "sale": "$65.00"
+        "name": "Antique Lamp Stand",
+        "price": "$50.00",
+        "sale": "$80.00"
       },
       {
         "img": "https://raw.githubusercontent.com/nematov9844/hekto-images/main/leastest/leatest_3.png",
-        "name": "Eco-Friendly Furniture",
-        "price": "$42.00",
-        "sale": "$65.00"
+        "name": "Elegant Wooden Shelf",
+        "price": "$70.00",
+        "sale": "$100.00"
       },
       {
         "img": "https://raw.githubusercontent.com/nematov9844/hekto-images/main/leastest/leatest_4.png",
-        "name": "Handmade Wooden Chair",
-        "price": "$42.00",
-        "sale": "$65.00"
+        "name": "Vintage Desk",
+        "price": "$85.00",
+        "sale": "$120.00"
       },
       {
         "img": "https://raw.githubusercontent.com/nematov9844/hekto-images/main/leastest/leatest_5.png",
-        "name": "Comfort Crafting Kit",
-        "price": "$42.00",
-        "sale": "$65.00"
+        "name": "Minimalist Sofa",
+        "price": "$90.00",
+        "sale": "$150.00"
       },
       {
         "img": "https://raw.githubusercontent.com/nematov9844/hekto-images/main/leastest/leatest_6.png",
-        "name": "Creative Home Decor",
-        "price": "$42.00",
-        "sale": "$65.00"
+        "name": "Classic Armchair",
+        "price": "$60.00",
+        "sale": "$95.00"
       }
     ],
     "bestSeller": [
       {
         "img": "https://raw.githubusercontent.com/nematov9844/hekto-images/main/leastest/leatest_1.png",
-        "name": "Modern Handy Craft",
-        "price": "$42.00",
+        "name": "Handmade Ceramic Vase",
+        "price": "$45.00",
         "sale": "$65.00"
       },
       {
         "img": "https://raw.githubusercontent.com/nematov9844/hekto-images/main/leastest/leatest_2.png",
-        "name": "Vintage Craft Tool",
-        "price": "$42.00",
-        "sale": "$65.00"
+        "name": "Artistic Wall Decor",
+        "price": "$35.00",
+        "sale": "$55.00"
       },
       {
         "img": "https://raw.githubusercontent.com/nematov9844/hekto-images/main/leastest/leatest_3.png",
-        "name": "Eco-Friendly Furniture",
-        "price": "$42.00",
-        "sale": "$65.00"
+        "name": "Modern Coffee Table",
+        "price": "$60.00",
+        "sale": "$85.00"
       },
       {
         "img": "https://raw.githubusercontent.com/nematov9844/hekto-images/main/leastest/leatest_4.png",
-        "name": "Handmade Wooden Chair",
-        "price": "$42.00",
-        "sale": "$65.00"
+        "name": "Retro Clock",
+        "price": "$40.00",
+        "sale": "$60.00"
       },
       {
         "img": "https://raw.githubusercontent.com/nematov9844/hekto-images/main/leastest/leatest_5.png",
-        "name": "Comfort Crafting Kit",
-        "price": "$42.00",
-        "sale": "$65.00"
+        "name": "Eco-Friendly Cushion",
+        "price": "$25.00",
+        "sale": "$40.00"
       },
       {
         "img": "https://raw.githubusercontent.com/nematov9844/hekto-images/main/leastest/leatest_6.png",
-        "name": "Creative Home Decor",
-        "price": "$42.00",
-        "sale": "$65.00"
+        "name": "Vintage Record Player",
+        "price": "$80.00",
+        "sale": "$120.00"
       }
     ],
     "featured": [
       {
         "img": "https://raw.githubusercontent.com/nematov9844/hekto-images/main/leastest/leatest_1.png",
-        "name": "Modern Handy Craft",
-        "price": "$42.00",
-        "sale": "$65.00"
+        "name": "Designer Floor Lamp",
+        "price": "$110.00",
+        "sale": "$150.00"
       },
       {
         "img": "https://raw.githubusercontent.com/nematov9844/hekto-images/main/leastest/leatest_2.png",
-        "name": "Vintage Craft Tool",
-        "price": "$42.00",
-        "sale": "$65.00"
+        "name": "Luxury Tableware Set",
+        "price": "$200.00",
+        "sale": "$250.00"
       },
       {
         "img": "https://raw.githubusercontent.com/nematov9844/hekto-images/main/leastest/leatest_3.png",
-        "name": "Eco-Friendly Furniture",
-        "price": "$42.00",
-        "sale": "$65.00"
+        "name": "Scandinavian Sofa",
+        "price": "$500.00",
+        "sale": "$650.00"
       },
       {
         "img": "https://raw.githubusercontent.com/nematov9844/hekto-images/main/leastest/leatest_4.png",
-        "name": "Handmade Wooden Chair",
-        "price": "$42.00",
-        "sale": "$65.00"
+        "name": "Contemporary Wall Clock",
+        "price": "$70.00",
+        "sale": "$100.00"
       },
       {
         "img": "https://raw.githubusercontent.com/nematov9844/hekto-images/main/leastest/leatest_5.png",
-        "name": "Comfort Crafting Kit",
-        "price": "$42.00",
-        "sale": "$65.00"
+        "name": "Elegant Wooden Chair",
+        "price": "$55.00",
+        "sale": "$75.00"
       },
       {
         "img": "https://raw.githubusercontent.com/nematov9844/hekto-images/main/leastest/leatest_6.png",
-        "name": "Creative Home Decor",
-        "price": "$42.00",
-        "sale": "$65.00"
+        "name": "Handcrafted Bookcase",
+        "price": "$300.00",
+        "sale": "$400.00"
       }
     ],
     "specialOffer": [
       {
         "img": "https://raw.githubusercontent.com/nematov9844/hekto-images/main/leastest/leatest_1.png",
-        "name": "Modern Handy Craft",
-        "price": "$42.00",
-        "sale": "$65.00"
+        "name": "Limited Edition Rug",
+        "price": "$150.00",
+        "sale": "$200.00"
       },
       {
         "img": "https://raw.githubusercontent.com/nematov9844/hekto-images/main/leastest/leatest_2.png",
-        "name": "Vintage Craft Tool",
-        "price": "$42.00",
-        "sale": "$65.00"
+        "name": "Handmade Tapestry",
+        "price": "$90.00",
+        "sale": "$130.00"
       },
       {
         "img": "https://raw.githubusercontent.com/nematov9844/hekto-images/main/leastest/leatest_3.png",
-        "name": "Eco-Friendly Furniture",
-        "price": "$42.00",
-        "sale": "$65.00"
+        "name": "Luxury Leather Sofa",
+        "price": "$800.00",
+        "sale": "$950.00"
       },
       {
         "img": "https://raw.githubusercontent.com/nematov9844/hekto-images/main/leastest/leatest_4.png",
-        "name": "Handmade Wooden Chair",
-        "price": "$42.00",
-        "sale": "$65.00"
+        "name": "Minimalist Coffee Table",
+        "price": "$200.00",
+        "sale": "$250.00"
       },
       {
         "img": "https://raw.githubusercontent.com/nematov9844/hekto-images/main/leastest/leatest_5.png",
-        "name": "Comfort Crafting Kit",
-        "price": "$42.00",
-        "sale": "$65.00"
+        "name": "Bamboo Shelving Unit",
+        "price": "$120.00",
+        "sale": "$170.00"
       },
       {
         "img": "https://raw.githubusercontent.com/nematov9844/hekto-images/main/leastest/leatest_6.png",
-        "name": "Creative Home Decor",
-        "price": "$42.00",
-        "sale": "$65.00"
+        "name": "Artisanal Teapot Set",
+        "price": "$70.00",
+        "sale": "$95.00"
       }
     ]
   }
